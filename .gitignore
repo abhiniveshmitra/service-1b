@@ -1,0 +1,30 @@
+﻿# Development files
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+tests/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+logs/
+tmp/
+temp/
+
+# Docker volumes
+.docker/
+
+# Keep models in repository for hackathon (don't ignore)
+# app/models/ - Keep this for self-contained submission
