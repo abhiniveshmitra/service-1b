@@ -1,0 +1,18 @@
+﻿{
+  "challenge_info": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "digital_library_planning"
+  },
+  "documents": [
+    {
+      "filename": "E0H1CM114.pdf",
+      "title": "Ontario Digital Library Business Plan Development"
+    }
+  ],
+  "persona": {
+    "role": "Digital Transformation Consultant"
+  },
+  "job_to_be_done": {
+    "task": "Develop comprehensive business plan for digital library implementation including stakeholder analysis, funding models, and governance structures"
+  }
+}

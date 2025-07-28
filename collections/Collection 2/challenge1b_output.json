@@ -1,0 +1,208 @@
+{
+    "metadata": {
+        "input_documents": [
+            "E0H1CM114.pdf"
+        ],
+        "persona": "Digital Transformation Consultant",
+        "job_to_be_done": "Develop comprehensive business plan for digital library implementation including stakeholder analysis, funding models, and governance structures"
+    },
+    "extracted_sections": [
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "Digital Library",
+            "importance_rank": 1,
+            "page_number": 1
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "Ontario’s Digital Library",
+            "importance_rank": 2,
+            "page_number": 2
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "To Present a Proposal for Developing",
+            "importance_rank": 3,
+            "page_number": 1
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "Ontario’s Libraries",
+            "importance_rank": 4,
+            "page_number": 1
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "Approach and Specific Proposal Requirements",
+            "importance_rank": 5,
+            "page_number": 7
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "Appendix A:  ODL Envisioned Phases & Funding",
+            "importance_rank": 6,
+            "page_number": 9
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "the Business Plan for the Ontario",
+            "importance_rank": 7,
+            "page_number": 1
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "Shared governance structure:",
+            "importance_rank": 8,
+            "page_number": 4
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "OVERVIEW OF ODL FUNDING MODEL",
+            "importance_rank": 9,
+            "page_number": 10
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "Shared funding:",
+            "importance_rank": 10,
+            "page_number": 4
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "For each Ontario library it could mean:",
+            "importance_rank": 11,
+            "page_number": 6
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "Funding Source",
+            "importance_rank": 12,
+            "page_number": 10
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "8.1 The Steering Committee is accountable to the Province of Ontario, and to its business plan",
+            "importance_rank": 13,
+            "page_number": 12
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "9. Financial and Administrative Policies",
+            "importance_rank": 14,
+            "page_number": 13
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "Technological Support:",
+            "importance_rank": 15,
+            "page_number": 5
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "8.3 The Steering Committee is accountable to its constituent groups and other stakeholders for",
+            "importance_rank": 16,
+            "page_number": 13
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "A Critical Component for Implementing Ontario’s Road Map to",
+            "importance_rank": 17,
+            "page_number": 2
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "Prosperity Strategy",
+            "importance_rank": 18,
+            "page_number": 2
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "Equitable access for all Ontarians:",
+            "importance_rank": 19,
+            "page_number": 4
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "section_title": "r Proposal",
+            "importance_rank": 20,
+            "page_number": 1
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "Digital Library",
+            "page_number": 1
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "Ontario’s Digital Library",
+            "page_number": 2
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "To Present a Proposal for Developing",
+            "page_number": 1
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "Ontario’s Libraries",
+            "page_number": 1
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "Approach and Specific Proposal Requirements",
+            "page_number": 7
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "Appendix A:  ODL Envisioned Phases & Funding",
+            "page_number": 9
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "the Business Plan for the Ontario",
+            "page_number": 1
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "Shared governance structure:",
+            "page_number": 4
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "OVERVIEW OF ODL FUNDING MODEL",
+            "page_number": 10
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "Shared funding:",
+            "page_number": 4
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "For each Ontario library it could mean:",
+            "page_number": 6
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "Funding Source",
+            "page_number": 10
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "8.1 The Steering Committee is accountable to the Province of Ontario, and to its business plan",
+            "page_number": 12
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "9. Financial and Administrative Policies",
+            "page_number": 13
+        },
+        {
+            "document": "E0H1CM114.pdf",
+            "refined_text": "Technological Support:",
+            "page_number": 5
+        }
+    ]
+}

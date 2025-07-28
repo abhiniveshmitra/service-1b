@@ -1,0 +1,18 @@
+﻿{
+  "challenge_info": {
+    "challenge_id": "round_1b_001",
+    "test_case_name": "software_testing_certification"
+  },
+  "documents": [
+    {
+      "filename": "E0CCG5S312.pdf",
+      "title": "ISTQB Foundation Level Agile Tester Extension"
+    }
+  ],
+  "persona": {
+    "role": "Quality Assurance Engineer"
+  },
+  "job_to_be_done": {
+    "task": "Prepare for agile testing certification and understand comprehensive testing methodologies for enterprise software development"
+  }
+}

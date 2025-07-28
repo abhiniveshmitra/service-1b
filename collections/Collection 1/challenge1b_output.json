@@ -1,0 +1,208 @@
+{
+    "metadata": {
+        "input_documents": [
+            "E0CCG5S312.pdf"
+        ],
+        "persona": "Quality Assurance Engineer",
+        "job_to_be_done": "Prepare for agile testing certification and understand comprehensive testing methodologies for enterprise software development"
+    },
+    "extracted_sections": [
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Chapter 3: Agile Testing Methods, Techniques, and Tools",
+            "importance_rank": 1,
+            "page_number": 11
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",
+            "importance_rank": 2,
+            "page_number": 11
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "2. Introduction to Foundation Level Agile Tester Extension",
+            "importance_rank": 3,
+            "page_number": 7
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Introduction to Foundation Level Agile Tester Extension",
+            "importance_rank": 4,
+            "page_number": 4
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Chapter 1: Agile Software Development",
+            "importance_rank": 5,
+            "page_number": 10
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "3. Overview of the Foundation Level Extension – Agile Tester",
+            "importance_rank": 6,
+            "page_number": 10
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Overview of the Foundation Level Extension – Agile Tester Syllabus",
+            "importance_rank": 7,
+            "page_number": 4
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "The following figure shows the structure of the Agile Tester Extension and its relationship to the",
+            "importance_rank": 8,
+            "page_number": 8
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "International Software Testing Qualifications Board",
+            "importance_rank": 9,
+            "page_number": 1
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "2.2 Career Paths for Testers",
+            "importance_rank": 10,
+            "page_number": 7
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "This overview document is intended for anyone with an interest in the ISTQB Foundation Level",
+            "importance_rank": 11,
+            "page_number": 6
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Overview",
+            "importance_rank": 12,
+            "page_number": 1
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Overview",
+            "importance_rank": 13,
+            "page_number": 2
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Overview",
+            "importance_rank": 14,
+            "page_number": 3
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Overview",
+            "importance_rank": 15,
+            "page_number": 4
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Overview",
+            "importance_rank": 16,
+            "page_number": 5
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Overview",
+            "importance_rank": 17,
+            "page_number": 6
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Overview",
+            "importance_rank": 18,
+            "page_number": 7
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Overview",
+            "importance_rank": 19,
+            "page_number": 8
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "section_title": "Overview",
+            "importance_rank": 20,
+            "page_number": 9
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "Chapter 3: Agile Testing Methods, Techniques, and Tools",
+            "page_number": 11
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",
+            "page_number": 11
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "2. Introduction to Foundation Level Agile Tester Extension",
+            "page_number": 7
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "Introduction to Foundation Level Agile Tester Extension",
+            "page_number": 4
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "Chapter 1: Agile Software Development",
+            "page_number": 10
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "3. Overview of the Foundation Level Extension – Agile Tester",
+            "page_number": 10
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "Overview of the Foundation Level Extension – Agile Tester Syllabus",
+            "page_number": 4
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "The following figure shows the structure of the Agile Tester Extension and its relationship to the",
+            "page_number": 8
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "International Software Testing Qualifications Board",
+            "page_number": 1
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "2.2 Career Paths for Testers",
+            "page_number": 7
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "This overview document is intended for anyone with an interest in the ISTQB Foundation Level",
+            "page_number": 6
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "Overview",
+            "page_number": 1
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "Overview",
+            "page_number": 2
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "Overview",
+            "page_number": 3
+        },
+        {
+            "document": "E0CCG5S312.pdf",
+            "refined_text": "Overview",
+            "page_number": 4
+        }
+    ]
+}
